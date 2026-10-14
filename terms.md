@@ -72,4 +72,4 @@ We may update these terms. Material changes will be reflected in the "Last updat
 
 Contact
 
-[noamrosen93@gmail.com]
+noamrosen93@gmail.com
