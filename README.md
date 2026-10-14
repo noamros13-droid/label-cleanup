@@ -83,6 +83,6 @@ The job is taking a long time. Larger jobs take proportionally longer. The progr
 
 Support
 
-Email: [noamrosen93@gmail.com]
+Email: noamrosen93@gmail.com
 
 Monday to Friday, 9:00am–5:00pm AEST (UTC+10). Response within 2 business days.
