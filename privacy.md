@@ -65,4 +65,4 @@ Contact
 
 Questions about this policy or about data handling:
 
-[noamrosen93@gmail.com]
+noamrosen93@gmail.com
