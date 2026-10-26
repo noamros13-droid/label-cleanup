@@ -1,6 +1,6 @@
 Privacy Policy — Label Cleanup
 
-Last updated: 5 October 2026
+Last updated: 26 October 2026
 
 Label Cleanup ("the app") is a Jira Cloud app published on the Atlassian Marketplace by Noam Rosen ("we", "us").
 
@@ -65,4 +65,4 @@ Contact
 
 Questions about this policy or about data handling:
 
-noamrosen93@gmail.com
+[support@noamrosen.dev](mailto:support@noamrosen.dev)
