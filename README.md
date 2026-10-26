@@ -83,6 +83,6 @@ The job is taking a long time. Larger jobs take proportionally longer. The progr
 
 Support
 
-Email: noamrosen93@gmail.com
+Email: [support@noamrosen.dev](mailto:support@noamrosen.dev)
 
-Monday to Friday, 9:00am–5:00pm AEST (UTC+10). Response within 2 business days.
+Monday to Friday, 9:00am–5:00pm Melbourne time (AEST/AEDT). Response within 2 business days.
