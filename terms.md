@@ -1,6 +1,6 @@
 Terms of Service — Label Cleanup
 
-Last updated: 5 October 2026
+Last updated: 26 October 2026
 
 These terms govern use of the Label Cleanup app ("the app"), published on the Atlassian Marketplace by Noam Rosen ("we", "us").
 
@@ -72,4 +72,4 @@ We may update these terms. Material changes will be reflected in the "Last updat
 
 Contact
 
-noamrosen93@gmail.com
+[support@noamrosen.dev](mailto:support@noamrosen.dev)
