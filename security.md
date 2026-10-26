@@ -72,4 +72,4 @@ Contact
 
 Security reports: through the support portal above, or the Atlassian Ecosystem support ticket system.
 
-[support@noamrosen.dev](mailto:support@noamrosen.dev)
+[security@noamrosen.dev](mailto:security@noamrosen.dev)
