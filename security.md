@@ -1,6 +1,6 @@
 Security Incident Response — Label Cleanup
 
-Last reviewed: 14 October 2026
+Last reviewed: 26 October 2026
 
 Label Cleanup is a Jira Cloud app published by Noam Rosen, a sole developer. It runs entirely on Atlassian Forge, operates no external infrastructure, and makes no network requests outside Atlassian. This plan is sized to that reality rather than to a company with a security team.
 
@@ -72,4 +72,4 @@ Contact
 
 Security reports: through the support portal above, or the Atlassian Ecosystem support ticket system.
 
-Email: noamrosen93@gmail.com
+[support@noamrosen.dev](mailto:support@noamrosen.dev)
